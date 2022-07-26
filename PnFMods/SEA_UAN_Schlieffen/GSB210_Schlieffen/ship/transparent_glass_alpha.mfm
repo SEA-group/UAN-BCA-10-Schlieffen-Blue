@@ -1,0 +1,28 @@
+<transparent_glass_alpha.mfm>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/ship/transparent_glass_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	glassGlossiness
+		<Float>	100	</Float>
+	</property>
+	<property>	glassSpecular
+		<Float>	30	</Float>
+	</property>
+	<property>	glassSubmaterialThreshold
+		<Float>	0.02	</Float>
+	</property>
+	<property>	glassSubmaterialGlossiness
+		<Float>	10	</Float>
+	</property>
+	<property>	glassSubmaterialSpecular
+		<Float>	50	</Float>
+	</property>
+	<property>	glassAbsorptionCoef
+		<Float>	0.005	</Float>
+	</property>
+</transparent_glass_alpha.mfm>

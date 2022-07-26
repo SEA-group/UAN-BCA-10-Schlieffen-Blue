@@ -1,0 +1,7 @@
+<GRS019_FuMO25.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/radar/lods/GRS019_FuMO25_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/radar/GRS019_FuMO25	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GRS019_FuMO25.model>

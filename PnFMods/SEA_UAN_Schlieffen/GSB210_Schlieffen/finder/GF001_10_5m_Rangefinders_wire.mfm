@@ -1,0 +1,14 @@
+<GF001_10_5m_Rangefinders_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/finder/GF001_10_5m_Rangefinders_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/finder/GF001_10_5m_Rangefinders_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/finder/GF001_10_5m_Rangefinders_n.dds	</Texture>
+	</property>
+</GF001_10_5m_Rangefinders_wire.mfm>
