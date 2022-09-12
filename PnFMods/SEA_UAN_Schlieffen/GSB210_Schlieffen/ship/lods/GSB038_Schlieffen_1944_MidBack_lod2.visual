@@ -231,7 +231,7 @@
 			<primitive>	MidBack_hide_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	TL2_SHIPMATX_PBS_Hull	</identifier>
+					<identifier>	TL2_SHIPMATX_PBS_Hull_Hide	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Schlieffen/GSB210_Schlieffen/ship/GSB038_Schlieffen_1944_hide.mfm	</mfm>
 				</material>
 			</primitiveGroup>
